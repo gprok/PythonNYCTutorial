@@ -1,1 +1,2 @@
-print('ex1')
+print('exercise1')
+print('DONE')
